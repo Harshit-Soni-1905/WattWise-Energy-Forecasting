@@ -2,6 +2,8 @@
 
 > Machine Learning based electricity consumption forecasting using XGBoost and an interactive Streamlit dashboard.
 
+🌐 **Live Demo:** [WattWise | Energy Forecast · Streamlit](https://wattwise-energy-forecasting-mbdbdm3tqh5uhhypgwfxqw.streamlit.app/)
+
 ---
 
 ## 📌 Overview
@@ -40,6 +42,15 @@ The objective of this project is to build a machine learning model that can lear
 - 💡 Forecast interpretation
 - 📊 Model performance metrics
 - 🌑 Modern dark-themed UI
+- 🌐 Deployed on Streamlit Community Cloud
+
+---
+
+## 🌐 Live Demo
+
+Try the deployed application here:
+
+👉 **[WattWise | Energy Forecast · Streamlit](https://wattwise-energy-forecasting-mbdbdm3tqh5uhhypgwfxqw.streamlit.app/)**
 
 ---
 
@@ -263,6 +274,8 @@ Model Evaluation
 Model Serialization
         ↓
 Streamlit Dashboard
+        ↓
+Deployment on Streamlit Community Cloud
         ↓
 Energy Consumption Prediction
 ```
